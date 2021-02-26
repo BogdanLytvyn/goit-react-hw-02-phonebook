@@ -14,7 +14,7 @@ const Filter = ({ value, onChangeFilter }) => (
       required
     />
     <span className={styles.bar}></span>
-    <label className={styles.label}>Filter</label>
+    <label className={styles.label}>Find contacts by name</label>
   </div>
 );
 
